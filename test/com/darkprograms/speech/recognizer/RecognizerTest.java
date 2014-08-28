@@ -29,6 +29,7 @@ import static org.junit.Assert.*;
 public class RecognizerTest {
     
     public RecognizerTest() {
+    	// prueba
     }
     
     @BeforeClass
